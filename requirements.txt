@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+requests
+beautifulsoup4
+google-generativeai
+pytz
+scikit-learn
+statsmodels
+lxml
