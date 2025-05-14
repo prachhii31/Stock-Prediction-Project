@@ -16,7 +16,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Set up API key and model
-GOOGLE_API_KEY = "AIzaSyBf3Y7EVko2N7MKvE4RXWUxxecL_qNdruU"
+GOOGLE_API_KEY = "Enter the API Key"
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-2.0-flash')
 
