@@ -44,3 +44,6 @@ Forecast future prices using statistical models
 Analyze sentiment and recent news
 
 Generate AI-based summaries and interpretations of stock performance
+
+![image](https://github.com/user-attachments/assets/8e4d57f0-d18f-44bc-9b6f-14df7d1a66f6)
+
